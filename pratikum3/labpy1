@@ -1,0 +1,8 @@
+def hitung_harga_tiket():
+    tipe_tiket = input("Masukkan tipe tiket (reguler/VIP): ")
+    status_member = input("Apakah Anda memiliki kartu member? (ya/tidak): ")
+    harga_dasar = 50000 if tipe_tiket.lower() == 'reguler' else 100000
+    diskon = 0.2 if status_member.lower() == 'ya' else 0
+    harga_akhir = harga_dasar * (1 - diskon)
+    print("Total harga yang harus dibayar: Rp", int(harga_akhir))
+hitung_harga_tiket()

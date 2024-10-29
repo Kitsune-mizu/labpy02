@@ -7,9 +7,9 @@ Penjelasan Program:
 1.	#### Fungsi hitung_harga_tiket:
      * Variabel tipe_tiket: Jenis tiket yang diminta di inputkan (reguler atau VIP).
      * Variabel status_member: Status keanggotaan di inputkan (ya/tidak).
-#### Harga Tiket:
-   * Tiket regular = Rp50.000
-   * Tiket VIP = Rp100.000
+     #### Harga Tiket:
+     * Tiket regular = Rp50.000
+     * Tiket VIP = Rp100.000
   Menentukan Harga Tiket:
    * Menggunakan operator ternary, jika tipe tiket adalah "reguler", maka harga tiket adalah Rp50.000, jika tidak, maka Rp100.000.
   Diskon:

@@ -3,6 +3,8 @@
 
 ### Contoh Input Program Python3 (Vs code)
 
+![image](https://github.com/user-attachments/assets/efce0295-379b-42a1-9450-26fef7972b08)
+
 #### Penjelasan Program:
 1.	#### Fungsi hitung_harga_tiket:
      * Variabel tipe_tiket: Jenis tiket yang diminta di inputkan (reguler atau VIP).
@@ -23,8 +25,12 @@
 
 #### Contoh Output :
 
+![image](https://github.com/user-attachments/assets/bc628fee-24a5-4add-95c2-820792da26a9)
+
 #### Flowchart Pemesanan Tiket Bioskop:
- 
+
+ ![Copy of Flowchart (1)](https://github.com/user-attachments/assets/848a6c27-341b-461d-b06f-2facd75c5c09)
+
 #### Penjelasan flowchart :
 1.	#### Mulai
 2.	#### Input Tipe Tiket
@@ -43,7 +49,9 @@
 ## Kasus 2: Program Kalkulator Sederhana
 
 ### Contoh Input Program Python3 (Vs code)
-  
+
+![image](https://github.com/user-attachments/assets/b0b3de86-1aef-40db-8dce-7feffa5a0a1f)
+
 #### Penjelasan Program:
 1. #### Fungsi kalkulator:
      * Variabel angka1: Angka pertama dari yang di Inputkan.
@@ -63,8 +71,12 @@
      * Program memanggil fungsi kalkulator dan mencetak hasil yang diperoleh.
 
 #### Contoh Output:
+
+![image](https://github.com/user-attachments/assets/f86d57d3-7914-4912-b48b-97445aa63f1f)
  
 #### Flowchart Kalkulator Sederhana:
+
+![Copy of Flowchart](https://github.com/user-attachments/assets/5ec3d047-8136-4a0c-b5ec-c9e755f4c0dd)
 
 #### Penjelasan Flowchart:
 1.	#### Mulai

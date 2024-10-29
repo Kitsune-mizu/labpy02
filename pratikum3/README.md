@@ -4,10 +4,10 @@
 ### Contoh Input Program Python3 (Vs code)
 
 Penjelasan Program:
-1.	Fungsi hitung_harga_tiket:
-   * Variabel tipe_tiket: Jenis tiket yang diminta di inputkan (reguler atau VIP).
-   * Variabel status_member: Status keanggotaan di inputkan (ya/tidak).
-  Harga Tiket:
+1.	#### Fungsi hitung_harga_tiket:
+     * Variabel tipe_tiket: Jenis tiket yang diminta di inputkan (reguler atau VIP).
+     * Variabel status_member: Status keanggotaan di inputkan (ya/tidak).
+#### Harga Tiket:
    * Tiket regular = Rp50.000
    * Tiket VIP = Rp100.000
   Menentukan Harga Tiket:

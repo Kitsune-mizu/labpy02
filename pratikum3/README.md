@@ -1,26 +1,25 @@
 # Latihan 3: Buat program python untuk kasus berikut:
-* Kasus 1: Program Pemesanan Tiket Bioskop
+## Kasus 1: Program Pemesanan Tiket Bioskop
 
-  Contoh Input Program Python3 (Vs code)
+### Contoh Input Program Python3 (Vs code)
 
 Penjelasan Program:
 1.	Fungsi hitung_harga_tiket:
-o	Variabel tipe_tiket: Jenis tiket yang diminta di inputkan (reguler atau VIP).
-o	Variabel status_member: Status keanggotaan di inputkan (ya/tidak).
-Harga Tiket:
-o	Tiket regular = Rp50.000
-o	Tiket VIP = Rp100.000
-Menentukan Harga Tiket:
-o	Menggunakan operator ternary, jika tipe tiket adalah "reguler", maka harga tiket adalah Rp50.000, jika tidak, maka Rp100.000.
-Diskon:
-o	Jika pengguna adalah member, diskon 20% diterapkan; jika tidak, tidak ada diskon.
-
-       Menghitung Total Harga:
-o	Total harga dihitung berdasarkan harga tiket dan diskon.
+   * Variabel tipe_tiket: Jenis tiket yang diminta di inputkan (reguler atau VIP).
+   * Variabel status_member: Status keanggotaan di inputkan (ya/tidak).
+  Harga Tiket:
+   * Tiket regular = Rp50.000
+   * Tiket VIP = Rp100.000
+  Menentukan Harga Tiket:
+   * Menggunakan operator ternary, jika tipe tiket adalah "reguler", maka harga tiket adalah Rp50.000, jika tidak, maka Rp100.000.
+  Diskon:
+   * Jika pengguna adalah member, diskon 20% diterapkan; jika tidak, tidak ada diskon.
+  Menghitung Total Harga:
+   * Total harga dihitung berdasarkan harga tiket dan diskon.
 2.	Input dari Pengguna:
-o	Program meminta pengguna untuk memasukkan tipe tiket dan status keanggotaan.
+   * Program meminta pengguna untuk memasukkan tipe tiket dan status keanggotaan.
 3.	Menghitung dan Menampilkan Total Harga:
-o	Program memanggil fungsi hitung_harga_tiket dan mencetak total harga yang harus dibayar dengan format dua desimal.
+   * Program memanggil fungsi hitung_harga_tiket dan mencetak total harga yang harus dibayar dengan format dua desimal.
 
 Contoh Output :
 
